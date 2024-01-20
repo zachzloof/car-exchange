@@ -1,0 +1,74 @@
+[
+    {
+        "id" : 1,
+        "username" : "zachzloof",
+        "name" : "Zach Zloof",
+        "dob": "06/11/1997",
+        "password" : "encryptme",
+        "userData" : {
+            "favourites": [
+                2,3,4
+            ],
+            "sales" : [
+                5
+            ],
+            "forSale": [
+                1, 8
+            ],
+            "preferences" : [
+                {
+                    "type" : "model",
+                    "make" : "BMW",
+                    "model" : "3 Series"
+                },
+                {
+                    "type" : "model,engine",
+                    "make" : "Ford",
+                    "model" : "Mustang",
+                    "engine" : 2.3
+                }
+            ],
+            "liked" : [
+                6
+            ],
+            "purchaseHistory" : [
+                7
+            ]
+        }
+    },
+    {
+        "id" : 2,
+        "username" : "happyuser",
+        "name" : "John Doe",
+        "dob": "01/01/1990",
+        "password" : "encryptme",
+        "userData" : {
+            "favourites": [
+                1
+            ],
+            "sales" : [
+                7
+            ],
+            "forSale": [
+                2,3,4,6
+            ],
+            "preferences" : [
+                {
+                    "type" : "model",
+                    "make" : "BMW",
+                    "model" : "X5"
+                },
+                {
+                    "type" : "engineMin",
+                    "engine" : 5
+                }
+            ],
+            "liked" : [
+                8
+            ],
+            "purchaseHistory" : [
+                5
+            ]
+        }
+    }
+]

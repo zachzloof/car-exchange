@@ -1,0 +1,14 @@
+body {
+  height: 100%;
+  background-color: var(--bs-primary);
+  color: white;
+}
+@media (min-width: 1024px) {
+  body {
+  
+  }
+
+  #app {
+
+  }
+}

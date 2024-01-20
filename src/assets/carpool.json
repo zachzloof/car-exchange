@@ -1,0 +1,188 @@
+[
+    {
+        "id" : 1,
+        "ownerId" : 1,
+        "make" : "Ford",
+        "model" : "Fiesta",
+        "colour" : "Midnight Black",
+        "year" : 2015,
+        "status": "sale",
+        "description" : "Old car, no longer needed - looking for new home",
+        "images" : [
+            "https://67cdn.co.uk/226/3/308157/169046832764c27fe71fcaf_img-0548.jpg?width=480&height=360&crop=auto"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 1.25,
+            "fuel" : "petrol"
+        }
+    },
+    {
+        "id" : 2,
+        "ownerId" : 2,
+        "make" : "Ford",
+        "model" : "Mustang",
+        "colour" : "Navy Blue, white",
+        "year": 2019,
+        "status": "sale",
+        "description" : "Old car, no longer needed - looking for new home",
+        "images" : [
+            "https://i.insider.com/5e9a0cafdcd88c113f7c08b0?width=750&format=jpeg&auto=webp"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 5.0,
+            "fuel" : "petrol"
+        }
+    },
+    {
+        "id" : 3,
+        "ownerId" : 2,
+        "make" : "BMW",
+        "model" : "3 Series",
+        "colour" : "Black",
+        "year" : 2013,
+        "status": "sale",
+        "description" : "Old car, no longer needed - looking for new home",
+        "images" : [
+            "https://mediacloud.carbuyer.co.uk/image/private/s--l9zsUQ3---/v1648029264/carbuyer/2022/03/Used%20BMW%203%20Series%20review%202012-2018-2.jpg"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 2.0,
+            "fuel" : "diesel"
+        }
+    },
+    {
+        "id" : 4,
+        "ownerId" : 2,
+        "make" : "Nissan",
+        "model" : "GTR",
+        "colour" : "Carbon Fibre",
+        "year" : 2020,
+        "status": "sale",
+        "description" : "bored of it, not even that nice",
+        "images" : [
+            "https://i.ytimg.com/vi/lxExR69EGQY/maxresdefault.jpg"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 5.0,
+            "fuel" : "petrol"
+        }
+    },
+    {
+        "id" : 5,
+        "ownerId" : 2,
+        "make" : "Volkswagon",
+        "model" : "Sirocco",
+        "colour" : "White",
+        "year" : 2016,
+        "status": "sold",
+        "sellerId" : 1,
+        "description" : "bored of it, not even that nice",
+        "images" : [
+            "https://upload.wikimedia.org/wikipedia/commons/0/03/2015_Volkswagen_Scirocco_GT_BlueMotion_Tech_2.0.jpg"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 2.0,
+            "fuel" : "petrol"
+        }
+    },
+    {
+        "id" : 6,
+        "ownerId" : 2,
+        "make" : "Volkswagon",
+        "model" : "Sirocco",
+        "colour" : "Lime Green",
+        "year" : 2011,
+        "status": "sale",
+        "description" : "bored of it, not even that nice",
+        "images" : [
+            "https://images.clickdealer.co.uk/vehicles/4978/4978208/large1/114337791.jpg"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 2.0,
+            "fuel" : "petrol"
+        }
+    },
+    {
+        "id" : 7,
+        "ownerId" : 1,
+        "make" : "Lamborghini",
+        "model" : "Urus",
+        "colour" : "Orange",
+        "year" : 2021,
+        "status": "sold",
+        "sellerId" : 2,
+        "description" : "bored of it, not even that nice",
+        "images" : [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lamborghini_Urus_19.09.20_JM_%282%29_%28cropped%29.jpg/1200px-Lamborghini_Urus_19.09.20_JM_%282%29_%28cropped%29.jpg"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 4.0,
+            "fuel" : "petrol"
+        }
+    },
+    {
+        "id" : 8,
+        "ownerId" : 1,
+        "make" : "Renault",
+        "model" : "Clio",
+        "colour" : "Blue",
+        "year" : 2010,
+        "status": "sale",
+        "description" : "bored of it, not even that nice",
+        "images" : [
+            "https://ao397.motordealerpro.app/images/428/20200716120441/3_FHD.jpg"
+        ],
+        "features" : [
+
+        ],
+        "carHistory" : {
+
+        },
+        "spec": {
+            "engineSize": 1.2,
+            "fuel" : "petrol"
+        }
+    }
+]
